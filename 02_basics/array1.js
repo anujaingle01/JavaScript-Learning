@@ -41,3 +41,4 @@ console.log("B ", myArr);
 const myn2 = myArr.splice(1, 3)
 console.log(myn2);                      // n, n
 console.log("C ", myArr);    // Removes all splice range from array
+
