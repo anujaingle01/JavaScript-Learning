@@ -2,7 +2,7 @@
 const tinderUser = {}                   // No constructor
 
 tinderUser.id = "123abc"
-tinderUser.name = "Sammy"
+tinderUser.name = "anu"
 tinderUser.isLoggedIn = false
 
 console.log(tinderUser);
@@ -71,13 +71,16 @@ const {courseInstructor: instructor} = course
 // console.log(courseInstructor);
 console.log(instructor);
 
+
+// **** IMP : This is JSON without Object Name with Key as "String" ***
 // {
 //     "name": "anuja",
 //     "coursename": "js in hindi",
 //     "price": "free"
 // }
 
-[
+
+[                // Array of Object
     {},
     {},
     {}
