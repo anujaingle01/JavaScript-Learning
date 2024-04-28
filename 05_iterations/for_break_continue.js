@@ -1,3 +1,9 @@
+// Java Execution Content           // IMP
+// 1.  Global Execution Content
+// 2.  Function Execution Content
+// 3.  Eval Execution Content
+
+
 // for loop
 
 for (let i = 1; i <= 10; i++) {
