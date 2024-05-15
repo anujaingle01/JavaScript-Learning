@@ -5,8 +5,8 @@
 
 
 
-## Project - 1
-Color Scheme Switcher -
+## Project - 1 ( Color Scheme Switcher )
+
 
 ```html 
 ****************** HTML Code ******************
